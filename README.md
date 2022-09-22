@@ -7,7 +7,7 @@ About the Course -
  - Project Driven Curriculum (10+ Projects)
  - Webinars and events by industry experts.
  - Clubs to accelerate your career in tech.
-[9:35 PM]
+
 Curriculum
 
 WebDev - Frontend
